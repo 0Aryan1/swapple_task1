@@ -50,15 +50,17 @@ nav a {
 }
 
 .btn-dark {
-    background-color: #000;
-    color: white;
+    color: #333;
     padding: 10px 20px;
     border-radius: 12px;
     transition: background-color 0.3s;
 }
 
 .btn-dark:hover {
-    background-color: #cb7373;
+    
+    background-color: black;
+    color: white;
+    
 }
 
 /* hero section  */
